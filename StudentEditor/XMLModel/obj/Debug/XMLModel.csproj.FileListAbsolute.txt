@@ -1,0 +1,5 @@
+C:\Prokopovich\диплом Прокопович\репозиторий\StudentEditor\XMLModel\bin\Debug\XMLModel.dll
+C:\Prokopovich\диплом Прокопович\репозиторий\StudentEditor\XMLModel\bin\Debug\XMLModel.pdb
+C:\Prokopovich\диплом Прокопович\репозиторий\StudentEditor\XMLModel\obj\Debug\XMLModel.dll
+C:\Prokopovich\диплом Прокопович\репозиторий\StudentEditor\XMLModel\obj\Debug\XMLModel.pdb
+C:\Prokopovich\диплом Прокопович\репозиторий\StudentEditor\XMLModel\obj\Debug\XMLModel.csprojResolveAssemblyReference.cache

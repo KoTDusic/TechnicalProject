@@ -1,0 +1,30 @@
+C:\Prokopovich\диплом Прокопович\репозиторий\StudentEditor\StudentEditor\bin\Debug\StudentEditor.exe.config
+C:\Prokopovich\диплом Прокопович\репозиторий\StudentEditor\StudentEditor\obj\Debug\StudentEditor.csprojResolveAssemblyReference.cache
+C:\Prokopovich\диплом Прокопович\репозиторий\StudentEditor\StudentEditor\obj\Debug\StudentEditor_MarkupCompile.cache
+C:\Prokopovich\диплом Прокопович\репозиторий\StudentEditor\StudentEditor\obj\Debug\StudentEditor.g.resources
+C:\Prokopovich\диплом Прокопович\репозиторий\StudentEditor\StudentEditor\obj\Debug\StudentEditor.Properties.Resources.resources
+C:\Prokopovich\диплом Прокопович\репозиторий\StudentEditor\StudentEditor\obj\Debug\StudentEditor.csproj.GenerateResource.Cache
+C:\Prokopovich\диплом Прокопович\репозиторий\StudentEditor\StudentEditor\bin\Debug\StudentEditor.exe
+C:\Prokopovich\диплом Прокопович\репозиторий\StudentEditor\StudentEditor\bin\Debug\StudentEditor.pdb
+C:\Prokopovich\диплом Прокопович\репозиторий\StudentEditor\StudentEditor\obj\Debug\StudentEditor.exe
+C:\Prokopovich\диплом Прокопович\репозиторий\StudentEditor\StudentEditor\obj\Debug\StudentEditor.pdb
+d:\Дмитрий\Программы\диплом\репозиторий\StudentEditor\StudentEditor\bin\Debug\StudentEditor.exe.config
+d:\Дмитрий\Программы\диплом\репозиторий\StudentEditor\StudentEditor\bin\Debug\StudentEditor.exe
+d:\Дмитрий\Программы\диплом\репозиторий\StudentEditor\StudentEditor\bin\Debug\StudentEditor.pdb
+d:\Дмитрий\Программы\диплом\репозиторий\StudentEditor\StudentEditor\obj\Debug\StudentEditor.csprojResolveAssemblyReference.cache
+d:\Дмитрий\Программы\диплом\репозиторий\StudentEditor\StudentEditor\obj\Debug\MainWindow.baml
+d:\Дмитрий\Программы\диплом\репозиторий\StudentEditor\StudentEditor\obj\Debug\MainWindow.g.cs
+d:\Дмитрий\Программы\диплом\репозиторий\StudentEditor\StudentEditor\obj\Debug\App.g.cs
+d:\Дмитрий\Программы\диплом\репозиторий\StudentEditor\StudentEditor\obj\Debug\StudentEditor_MarkupCompile.cache
+d:\Дмитрий\Программы\диплом\репозиторий\StudentEditor\StudentEditor\obj\Debug\StudentEditor.g.resources
+d:\Дмитрий\Программы\диплом\репозиторий\StudentEditor\StudentEditor\obj\Debug\StudentEditor.Properties.Resources.resources
+d:\Дмитрий\Программы\диплом\репозиторий\StudentEditor\StudentEditor\obj\Debug\StudentEditor.csproj.GenerateResource.Cache
+d:\Дмитрий\Программы\диплом\репозиторий\StudentEditor\StudentEditor\obj\Debug\StudentEditor.exe
+d:\Дмитрий\Программы\диплом\репозиторий\StudentEditor\StudentEditor\obj\Debug\StudentEditor.pdb
+C:\Prokopovich\диплом Прокопович\репозиторий\StudentEditor\StudentEditor\obj\Debug\View\MainWindow.baml
+C:\Prokopovich\диплом Прокопович\репозиторий\StudentEditor\StudentEditor\obj\Debug\View\MainWindow.g.cs
+C:\Prokopovich\диплом Прокопович\репозиторий\StudentEditor\StudentEditor\obj\Debug\View\App.g.cs
+C:\Prokopovich\диплом Прокопович\репозиторий\StudentEditor\StudentEditor\bin\Debug\XMLModel.dll
+C:\Prokopovich\диплом Прокопович\репозиторий\StudentEditor\StudentEditor\bin\Debug\XMLModel.pdb
+C:\Prokopovich\диплом Прокопович\репозиторий\StudentEditor\StudentEditor\obj\Debug\View\MyInputDialog.baml
+C:\Prokopovich\диплом Прокопович\репозиторий\StudentEditor\StudentEditor\obj\Debug\View\MyInputDialog.g.cs
