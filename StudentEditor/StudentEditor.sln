@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentEditor", "StudentEditor\StudentEditor.csproj", "{BDFFA05D-F942-4C00-B5C1-C96C0EACEAA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLModel", "XMLModel\XMLModel.csproj", "{06978C1B-0090-4252-9023-E8441962C8CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDFFA05D-F942-4C00-B5C1-C96C0EACEAA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFFA05D-F942-4C00-B5C1-C96C0EACEAA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFFA05D-F942-4C00-B5C1-C96C0EACEAA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFFA05D-F942-4C00-B5C1-C96C0EACEAA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06978C1B-0090-4252-9023-E8441962C8CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06978C1B-0090-4252-9023-E8441962C8CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06978C1B-0090-4252-9023-E8441962C8CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06978C1B-0090-4252-9023-E8441962C8CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
